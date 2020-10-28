@@ -1,4 +1,4 @@
-//k-means clustering for tabular data having different attributes
+// k-means clustering for tabular data having different attributes
 #include <iostream>
 #include <vector>
 #include <cmath>
