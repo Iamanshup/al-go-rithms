@@ -48,7 +48,7 @@ int main()
 
 	ways = coin_change(n,m,C);
 
-	cout<<"The number of ways to make the required change is "<<ways<<"."<<endl;
+	cout << "The number of ways to make the required change is " << ways << "." << endl;
 	
 	return 0;
 }
